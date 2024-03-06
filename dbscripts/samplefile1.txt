@@ -1,2 +1,0 @@
-create schema demo_schema;
-create table tab(id int,name varchar);
